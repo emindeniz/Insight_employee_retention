@@ -36,6 +36,8 @@ Specifically, you should:
                                                                                                      11
 ### Data
 
+Data is in the file `employee_retention_data.csv`
+
 The table is:
   "employee_retention" - comprehensive information about employees.
 Columns
