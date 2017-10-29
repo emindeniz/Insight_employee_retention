@@ -33,7 +33,8 @@ Specifically, you should:
 
 The table is:
   "employee_retention" - comprehensive information about employees.
-Columns:
+Columns
+
       `employee_id : id of the employee. Unique by employee per company
       company_id : company id.
       dept : employee dept
