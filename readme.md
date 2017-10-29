@@ -2,6 +2,8 @@
 
 ### How to run
 
+Run `employee_retention.ipynb` for a look at this problem.
+
 ### Goal
 
 Employee turn-over is a very costly problem for companies. The cost of replacing an employee
